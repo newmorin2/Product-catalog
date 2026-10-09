@@ -1,16 +1,36 @@
-# React + Vite
+# Product Catalog
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About the Project
 
-Currently, two official plugins are available:
+Product Catalog is a beginner-friendly React application that displays products and their information, including product names, prices, categories, and stock availability.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The project was built to practise fundamental React concepts and JavaScript array methods while displaying product information dynamically.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Product Listing:** Displays all products and their information.
+- **Stock Availability:** Indicates whether a product is in stock or out of stock.
+- **Product Count:** Calculates and displays the total number of products.
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- JavaScript 
+- HTML5
+- Bootstrap CSS
+
+## React and JavaScript Concepts Practised
+
+This project demonstrates the following concepts:
+
+- React functional components
+- JSX
+- JavaScript arrays and objects
+- The `map()` method
+- The `filter()` method
+- The `length` property
+- Conditional rendering
+- Importing and exporting React components
+
+## Author
+- Newton Mwangi
